@@ -58,18 +58,12 @@
 #### OTHERS
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
-## 🔥GitHub Activity Streak
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ateka-Oishi&theme=react&show_icons=true" alt="Activity Streak" width="800" />
-  </a>
-</div>
-
 ## 📊 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Ateka-Oishi&theme=react&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
-
+## 🔥GitHub Activity Streak
+![](https://github-readme-streak-stats.herokuapp.com?user=Ateka-Oishi&theme=react&show_icons=true")
 
 ### Last 3 Projects of mine:
 <ul>
