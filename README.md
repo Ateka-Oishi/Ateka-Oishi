@@ -15,8 +15,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ateka-Oishi&label=Profile%20views&color=0e75b6&style=flat" alt="Ateka-Oishi" /> </p>
 
-<h2>Get in touch with me<img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2><p align="left">
+<h2>Get in touch with me<img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
+<p align="left">
 <a href="https://www.linkedin.com/in/ateka-sultana-642071268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ateka-sultana" height="30" width="40" /></a>
 <a href="https://twitter.com/Ateka_Sultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ateka_Sultana" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ateka.oishi.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ateka-Oishi" height="30" width="40" /></a>
@@ -57,10 +58,18 @@
 #### OTHERS
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
+## 🔥GitHub Activity Streak
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ateka-Oishi&theme=react&show_icons=true" alt="Activity Streak" width="800" />
+  </a>
+</div>
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ateka-Oishi&theme=react&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
+
 
 ### Last 3 Projects of mine:
 <ul>
