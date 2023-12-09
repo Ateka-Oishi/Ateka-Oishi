@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=900&size=38&duration=1&pause=1&color=4488F7&center=true&repeat=false&width=1000&lines=ATEKA+SULTANA)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=800&duration=3500&pause=100&color=4488F7&center=true&width=1000&lines=Undergrad+Student;Computer+Science;MERN+Stack+Developer;From+Bangladesh)](https://git.io/typing-svg)
 
-<h2>Current Overview 👁️</h2>
+<h2>👁️ Current Overview</h2>
 
 - 👨‍💻 Explore all my projects at [Ateka-Oishi](https://github.com/Ateka-Oishi)
 
