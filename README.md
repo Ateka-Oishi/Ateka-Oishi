@@ -54,12 +54,19 @@
 #### Team Task
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/u/atekaoishi/boards)
 
-#### OTHER
+#### OTHERS
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ateka-Oishi&theme=react&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
+
+### Last 3 Projects of mine:
+<ul>
+  <li><a href="https://github.com/Ateka-Oishi/Polling-Survey"><b>Polling and Survey Page </b></a><br/><i> Explore a comprehensive Poll and Survey platform, offering diverse roles for administrators, surveyors, users, and pro-users. Seamlessly navigate through surveys, manage roles, and engage in diverse permissions, all secured with robust user authentication. Built using MongoDB, Express.js, React.js, and Node.js, ensuring a secure and scalable experience for data storage, web application, and user interface creation. Live site link of the project is provided in the README.md file.</i></li>
+   <li><a href="https://github.com/Ateka-Oishi/online-market"><b>Online Job hunting page</b></a><br/><i> Discover an immersive Online Job Marketplace, offering categorized job listings and streamlined management features. Secure access and data protection are assured with mandatory sign-in protocols and robust user authentication mechanisms, powered by cutting-edge technologies like MongoDB, Express.js, React.js, and Node.js for a seamless and secure job hunting experience. Live site link of the project is provided in the README.md file.</i></li>
+ <li><a href="https://github.com/Ateka-Oishi/Brand-Shop"><b> Online Branded Car Page</b></a><br/><i> Explore a lavish Online Branded Car Page showcasing exquisite brands and their vehicles. Effortlessly navigate through distinct brand collections, add and manage products seamlessly, ensuring a secure experience with mandatory sign-in requirements and robust user data protection. Powered by cutting-edge technologies like React.js, MongoDB, and Node.js for a dynamic and secure browsing experience. Live site link of the project is provided in the README.md file.</i></li>
+</ul>
 
 
