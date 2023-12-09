@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=900&size=38&duration=1&pause=1&color=4488F7&center=true&repeat=false&width=1000&lines=ATEKA+SULTANA)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=800&duration=3500&pause=100&color=4488F7&center=true&width=1000&lines=Undergrad+Student;Computer+Science;MERN+Stack+Developer;From+Bangladesh)](https://git.io/typing-svg)
 
-<h2>Current Overview</h2>
+<h2>Current Overview 👁️</h2>
 
 - 👨‍💻 Explore all my projects at [Ateka-Oishi](https://github.com/Ateka-Oishi)
 
@@ -59,8 +59,8 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Ateka-Oishi&theme=react&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
 
 ## 🔥GitHub Activity Streak
 ![](https://github-readme-streak-stats.herokuapp.com?user=Ateka-Oishi&theme=react&show_icons=true")
