@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ateka-Oishi&theme=react&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/Ateka-Oishi/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateka-Oishi&theme=react&show_icons=true)](https://github.com/Ateka-Oishi/github-readme-stats)
 
 ## 🔥GitHub Activity Streak
 ![](https://github-readme-streak-stats.herokuapp.com?user=Ateka-Oishi&theme=react&show_icons=true")
